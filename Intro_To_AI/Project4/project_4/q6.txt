@@ -1,0 +1,616 @@
+Starting training at time 21:40:30.942215 with 21 inputs, 4 outputs, [16] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 100 iterations at time 21:40:58.438395 with training error 0.002154 and weight change 0.000080
+Feed Forward Test correctly classified 193, incorrectly classified 7, test accuracy 0.965000
+
+Iteration 0 of layer 0 for CarTest
+Starting training at time 21:40:58.448391 with 21 inputs, 4 outputs, [0] hidden layers, size of training set 1528, and s
+ize of test set 200
+Finished after 201 iterations at time 21:41:02.612102 with training error 0.056758 and weight change 0.003727
+Feed Forward Test correctly classified 133, incorrectly classified 67, test accuracy 0.665000
+
+Iteration 1 of layer 0 for CarTest
+Starting training at time 21:41:02.614103 with 21 inputs, 4 outputs, [0] hidden layers, size of training set 1528, and s
+ize of test set 200
+Finished after 201 iterations at time 21:41:06.544045 with training error 0.056758 and weight change 0.003727
+Feed Forward Test correctly classified 133, incorrectly classified 67, test accuracy 0.665000
+
+Iteration 2 of layer 0 for CarTest
+Starting training at time 21:41:06.545012 with 21 inputs, 4 outputs, [0] hidden layers, size of training set 1528, and s
+ize of test set 200
+Finished after 201 iterations at time 21:41:10.545123 with training error 0.056758 and weight change 0.003727
+Feed Forward Test correctly classified 133, incorrectly classified 67, test accuracy 0.665000
+
+Iteration 3 of layer 0 for CarTest
+Starting training at time 21:41:10.546153 with 21 inputs, 4 outputs, [0] hidden layers, size of training set 1528, and s
+ize of test set 200
+Finished after 201 iterations at time 21:41:14.645690 with training error 0.056758 and weight change 0.003727
+Feed Forward Test correctly classified 133, incorrectly classified 67, test accuracy 0.665000
+
+Iteration 4 of layer 0 for CarTest
+Starting training at time 21:41:14.647691 with 21 inputs, 4 outputs, [0] hidden layers, size of training set 1528, and s
+ize of test set 200
+Finished after 201 iterations at time 21:41:18.646751 with training error 0.056758 and weight change 0.003727
+Feed Forward Test correctly classified 133, incorrectly classified 67, test accuracy 0.665000
+
+CarTest finished
+Max: 0.665000
+Average: 0.665000
+Standard Deviation: 0.000000
+Iteration 0 of layer 5 for CarTest
+Starting training at time 21:41:18.649752 with 21 inputs, 4 outputs, [5] hidden layers, size of training set 1528, and s
+ize of test set 200
+Finished after 201 iterations at time 21:41:38.519806 with training error 0.002431 and weight change 0.000129
+Feed Forward Test correctly classified 193, incorrectly classified 7, test accuracy 0.965000
+
+Iteration 1 of layer 5 for CarTest
+Starting training at time 21:41:38.523804 with 21 inputs, 4 outputs, [5] hidden layers, size of training set 1528, and s
+ize of test set 200
+Finished after 201 iterations at time 21:41:58.511142 with training error 0.002750 and weight change 0.000134
+Feed Forward Test correctly classified 192, incorrectly classified 8, test accuracy 0.960000
+
+Iteration 2 of layer 5 for CarTest
+Starting training at time 21:41:58.515145 with 21 inputs, 4 outputs, [5] hidden layers, size of training set 1528, and s
+ize of test set 200
+Finished after 201 iterations at time 21:42:18.344631 with training error 0.003527 and weight change 0.000170
+Feed Forward Test correctly classified 189, incorrectly classified 11, test accuracy 0.945000
+
+Iteration 3 of layer 5 for CarTest
+Starting training at time 21:42:18.348631 with 21 inputs, 4 outputs, [5] hidden layers, size of training set 1528, and s
+ize of test set 200
+Finished after 201 iterations at time 21:42:37.834858 with training error 0.002684 and weight change 0.000133
+Feed Forward Test correctly classified 193, incorrectly classified 7, test accuracy 0.965000
+
+Iteration 4 of layer 5 for CarTest
+Starting training at time 21:42:37.838827 with 21 inputs, 4 outputs, [5] hidden layers, size of training set 1528, and s
+ize of test set 200
+Finished after 201 iterations at time 21:42:57.734662 with training error 0.003683 and weight change 0.000161
+Feed Forward Test correctly classified 191, incorrectly classified 9, test accuracy 0.955000
+
+CarTest finished
+Max: 0.965000
+Average: 0.958000
+Standard Deviation: 0.007483
+Iteration 0 of layer 10 for CarTest
+Starting training at time 21:42:57.739633 with 21 inputs, 4 outputs, [10] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 156 iterations at time 21:43:24.989425 with training error 0.001713 and weight change 0.000080
+Feed Forward Test correctly classified 192, incorrectly classified 8, test accuracy 0.960000
+
+Iteration 1 of layer 10 for CarTest
+Starting training at time 21:43:24.995426 with 21 inputs, 4 outputs, [10] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 132 iterations at time 21:43:48.306062 with training error 0.001783 and weight change 0.000080
+Feed Forward Test correctly classified 195, incorrectly classified 5, test accuracy 0.975000
+
+Iteration 2 of layer 10 for CarTest
+Starting training at time 21:43:48.313060 with 21 inputs, 4 outputs, [10] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 157 iterations at time 21:44:16.157563 with training error 0.001589 and weight change 0.000080
+Feed Forward Test correctly classified 195, incorrectly classified 5, test accuracy 0.975000
+
+Iteration 3 of layer 10 for CarTest
+Starting training at time 21:44:16.164555 with 21 inputs, 4 outputs, [10] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 161 iterations at time 21:44:44.381302 with training error 0.001660 and weight change 0.000079
+Feed Forward Test correctly classified 191, incorrectly classified 9, test accuracy 0.955000
+
+Iteration 4 of layer 10 for CarTest
+Starting training at time 21:44:44.388301 with 21 inputs, 4 outputs, [10] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 150 iterations at time 21:45:10.780849 with training error 0.001668 and weight change 0.000080
+Feed Forward Test correctly classified 193, incorrectly classified 7, test accuracy 0.965000
+
+CarTest finished
+Max: 0.975000
+Average: 0.966000
+Standard Deviation: 0.008000
+Iteration 0 of layer 15 for CarTest
+Starting training at time 21:45:10.788827 with 21 inputs, 4 outputs, [15] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 101 iterations at time 21:45:36.915728 with training error 0.001950 and weight change 0.000080
+Feed Forward Test correctly classified 193, incorrectly classified 7, test accuracy 0.965000
+
+Iteration 1 of layer 15 for CarTest
+Starting training at time 21:45:36.925728 with 21 inputs, 4 outputs, [15] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 103 iterations at time 21:46:03.550928 with training error 0.002116 and weight change 0.000079
+Feed Forward Test correctly classified 191, incorrectly classified 9, test accuracy 0.955000
+
+Iteration 2 of layer 15 for CarTest
+Starting training at time 21:46:03.559510 with 21 inputs, 4 outputs, [15] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 120 iterations at time 21:46:34.529527 with training error 0.001797 and weight change 0.000080
+Feed Forward Test correctly classified 195, incorrectly classified 5, test accuracy 0.975000
+
+Iteration 3 of layer 15 for CarTest
+Starting training at time 21:46:34.538500 with 21 inputs, 4 outputs, [15] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 107 iterations at time 21:47:02.628721 with training error 0.001849 and weight change 0.000080
+Feed Forward Test correctly classified 192, incorrectly classified 8, test accuracy 0.960000
+
+Iteration 4 of layer 15 for CarTest
+Starting training at time 21:47:02.637722 with 21 inputs, 4 outputs, [15] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 106 iterations at time 21:47:29.485882 with training error 0.001908 and weight change 0.000079
+Feed Forward Test correctly classified 193, incorrectly classified 7, test accuracy 0.965000
+
+CarTest finished
+Max: 0.975000
+Average: 0.964000
+Standard Deviation: 0.006633
+Iteration 0 of layer 20 for CarTest
+Starting training at time 21:47:29.496389 with 21 inputs, 4 outputs, [20] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 91 iterations at time 21:47:59.516920 with training error 0.002052 and weight change 0.000080
+Feed Forward Test correctly classified 194, incorrectly classified 6, test accuracy 0.970000
+
+Iteration 1 of layer 20 for CarTest
+Starting training at time 21:47:59.528890 with 21 inputs, 4 outputs, [20] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 91 iterations at time 21:48:31.088807 with training error 0.002096 and weight change 0.000079
+Feed Forward Test correctly classified 193, incorrectly classified 7, test accuracy 0.965000
+
+Iteration 2 of layer 20 for CarTest
+Starting training at time 21:48:31.099776 with 21 inputs, 4 outputs, [20] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 80 iterations at time 21:48:58.410199 with training error 0.002462 and weight change 0.000080
+Feed Forward Test correctly classified 192, incorrectly classified 8, test accuracy 0.960000
+
+Iteration 3 of layer 20 for CarTest
+Starting training at time 21:48:58.422168 with 21 inputs, 4 outputs, [20] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 88 iterations at time 21:49:28.785593 with training error 0.001988 and weight change 0.000080
+Feed Forward Test correctly classified 195, incorrectly classified 5, test accuracy 0.975000
+
+Iteration 4 of layer 20 for CarTest
+Starting training at time 21:49:28.797559 with 21 inputs, 4 outputs, [20] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 93 iterations at time 21:50:00.724948 with training error 0.001987 and weight change 0.000080
+Feed Forward Test correctly classified 195, incorrectly classified 5, test accuracy 0.975000
+
+CarTest finished
+Max: 0.975000
+Average: 0.969000
+Standard Deviation: 0.005831
+Iteration 0 of layer 25 for CarTest
+Starting training at time 21:50:00.736949 with 21 inputs, 4 outputs, [25] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 70 iterations at time 21:50:30.339175 with training error 0.002433 and weight change 0.000079
+Feed Forward Test correctly classified 189, incorrectly classified 11, test accuracy 0.945000
+
+Iteration 1 of layer 25 for CarTest
+Starting training at time 21:50:30.355177 with 21 inputs, 4 outputs, [25] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 84 iterations at time 21:51:08.405634 with training error 0.002390 and weight change 0.000080
+Feed Forward Test correctly classified 187, incorrectly classified 13, test accuracy 0.935000
+
+Iteration 2 of layer 25 for CarTest
+Starting training at time 21:51:08.419634 with 21 inputs, 4 outputs, [25] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 79 iterations at time 21:51:41.749510 with training error 0.002417 and weight change 0.000079
+Feed Forward Test correctly classified 195, incorrectly classified 5, test accuracy 0.975000
+
+Iteration 3 of layer 25 for CarTest
+Starting training at time 21:51:41.766510 with 21 inputs, 4 outputs, [25] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 75 iterations at time 21:52:14.905864 with training error 0.002313 and weight change 0.000079
+Feed Forward Test correctly classified 193, incorrectly classified 7, test accuracy 0.965000
+
+Iteration 4 of layer 25 for CarTest
+Starting training at time 21:52:14.919863 with 21 inputs, 4 outputs, [25] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 77 iterations at time 21:52:47.222104 with training error 0.002267 and weight change 0.000079
+Feed Forward Test correctly classified 193, incorrectly classified 7, test accuracy 0.965000
+
+CarTest finished
+Max: 0.975000
+Average: 0.957000
+Standard Deviation: 0.014697
+Iteration 0 of layer 30 for CarTest
+Starting training at time 21:52:47.236075 with 21 inputs, 4 outputs, [30] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 64 iterations at time 21:53:18.458556 with training error 0.002449 and weight change 0.000079
+Feed Forward Test correctly classified 191, incorrectly classified 9, test accuracy 0.955000
+
+Iteration 1 of layer 30 for CarTest
+Starting training at time 21:53:18.475563 with 21 inputs, 4 outputs, [30] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 73 iterations at time 21:53:54.289155 with training error 0.002472 and weight change 0.000079
+Feed Forward Test correctly classified 192, incorrectly classified 8, test accuracy 0.960000
+
+Iteration 2 of layer 30 for CarTest
+Starting training at time 21:53:54.304126 with 21 inputs, 4 outputs, [30] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 57 iterations at time 21:54:22.143869 with training error 0.002656 and weight change 0.000079
+Feed Forward Test correctly classified 195, incorrectly classified 5, test accuracy 0.975000
+
+Iteration 3 of layer 30 for CarTest
+Starting training at time 21:54:22.158867 with 21 inputs, 4 outputs, [30] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 68 iterations at time 21:54:54.066698 with training error 0.002441 and weight change 0.000079
+Feed Forward Test correctly classified 193, incorrectly classified 7, test accuracy 0.965000
+
+Iteration 4 of layer 30 for CarTest
+Starting training at time 21:54:54.082668 with 21 inputs, 4 outputs, [30] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 66 iterations at time 21:55:26.021389 with training error 0.002381 and weight change 0.000080
+Feed Forward Test correctly classified 193, incorrectly classified 7, test accuracy 0.965000
+
+CarTest finished
+Max: 0.975000
+Average: 0.964000
+Standard Deviation: 0.006633
+Iteration 0 of layer 35 for CarTest
+Starting training at time 21:55:26.040386 with 21 inputs, 4 outputs, [35] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 66 iterations at time 21:56:02.156060 with training error 0.002687 and weight change 0.000079
+Feed Forward Test correctly classified 192, incorrectly classified 8, test accuracy 0.960000
+
+Iteration 1 of layer 35 for CarTest
+Starting training at time 21:56:02.174058 with 21 inputs, 4 outputs, [35] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 62 iterations at time 21:56:37.081034 with training error 0.002707 and weight change 0.000080
+Feed Forward Test correctly classified 191, incorrectly classified 9, test accuracy 0.955000
+
+Iteration 2 of layer 35 for CarTest
+Starting training at time 21:56:37.098003 with 21 inputs, 4 outputs, [35] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 68 iterations at time 21:57:14.996824 with training error 0.002622 and weight change 0.000079
+Feed Forward Test correctly classified 192, incorrectly classified 8, test accuracy 0.960000
+
+Iteration 3 of layer 35 for CarTest
+Starting training at time 21:57:15.013794 with 21 inputs, 4 outputs, [35] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 57 iterations at time 21:57:47.265715 with training error 0.003194 and weight change 0.000080
+Feed Forward Test correctly classified 192, incorrectly classified 8, test accuracy 0.960000
+
+Iteration 4 of layer 35 for CarTest
+Starting training at time 21:57:47.284040 with 21 inputs, 4 outputs, [35] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 56 iterations at time 21:58:18.990091 with training error 0.002901 and weight change 0.000079
+Feed Forward Test correctly classified 192, incorrectly classified 8, test accuracy 0.960000
+
+CarTest finished
+Max: 0.960000
+Average: 0.959000
+Standard Deviation: 0.002000
+Iteration 0 of layer 40 for CarTest
+Starting training at time 21:58:19.008061 with 21 inputs, 4 outputs, [40] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 57 iterations at time 21:58:54.904553 with training error 0.002809 and weight change 0.000079
+Feed Forward Test correctly classified 190, incorrectly classified 10, test accuracy 0.950000
+
+Iteration 1 of layer 40 for CarTest
+Starting training at time 21:58:54.923553 with 21 inputs, 4 outputs, [40] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 64 iterations at time 21:59:34.590492 with training error 0.002714 and weight change 0.000080
+Feed Forward Test correctly classified 191, incorrectly classified 9, test accuracy 0.955000
+
+Iteration 2 of layer 40 for CarTest
+Starting training at time 21:59:34.610468 with 21 inputs, 4 outputs, [40] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 61 iterations at time 22:00:14.306814 with training error 0.002742 and weight change 0.000080
+Feed Forward Test correctly classified 192, incorrectly classified 8, test accuracy 0.960000
+
+Iteration 3 of layer 40 for CarTest
+Starting training at time 22:00:14.326812 with 21 inputs, 4 outputs, [40] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 61 iterations at time 22:00:53.023782 with training error 0.002740 and weight change 0.000080
+Feed Forward Test correctly classified 190, incorrectly classified 10, test accuracy 0.950000
+
+Iteration 4 of layer 40 for CarTest
+Starting training at time 22:00:53.046754 with 21 inputs, 4 outputs, [40] hidden layers, size of training set 1528, and
+size of test set 200
+Finished after 52 iterations at time 22:01:25.858845 with training error 0.003085 and weight change 0.000080
+Feed Forward Test correctly classified 191, incorrectly classified 9, test accuracy 0.955000
+
+CarTest finished
+Max: 0.960000
+Average: 0.954000
+Standard Deviation: 0.003742
+Iteration 0 of layer 0 for PenTest
+Starting training at time 22:01:25.879814 with 16 inputs, 10 outputs, [0] hidden layers, size of training set 7494, and
+size of test set 3498
+Finished after 201 iterations at time 22:02:09.179101 with training error 0.045019 and weight change 0.001615
+Feed Forward Test correctly classified 0, incorrectly classified 3498, test accuracy 0.000000
+
+Iteration 1 of layer 0 for PenTest
+Starting training at time 22:02:09.219100 with 16 inputs, 10 outputs, [0] hidden layers, size of training set 7494, and
+size of test set 3498
+Finished after 201 iterations at time 22:02:52.075018 with training error 0.045019 and weight change 0.001615
+Feed Forward Test correctly classified 0, incorrectly classified 3498, test accuracy 0.000000
+
+Iteration 2 of layer 0 for PenTest
+Starting training at time 22:02:52.110987 with 16 inputs, 10 outputs, [0] hidden layers, size of training set 7494, and
+size of test set 3498
+Finished after 201 iterations at time 22:03:35.276471 with training error 0.045019 and weight change 0.001615
+Feed Forward Test correctly classified 0, incorrectly classified 3498, test accuracy 0.000000
+
+Iteration 3 of layer 0 for PenTest
+Starting training at time 22:03:35.312442 with 16 inputs, 10 outputs, [0] hidden layers, size of training set 7494, and
+size of test set 3498
+Finished after 201 iterations at time 22:04:18.226992 with training error 0.045019 and weight change 0.001615
+Feed Forward Test correctly classified 0, incorrectly classified 3498, test accuracy 0.000000
+
+Iteration 4 of layer 0 for PenTest
+Starting training at time 22:04:18.264987 with 16 inputs, 10 outputs, [0] hidden layers, size of training set 7494, and
+size of test set 3498
+Finished after 201 iterations at time 22:05:05.266957 with training error 0.045019 and weight change 0.001615
+Feed Forward Test correctly classified 0, incorrectly classified 3498, test accuracy 0.000000
+
+PenTest finished
+Max: 0.000000
+Average: 0.000000
+Standard Deviation: 0.000000
+Iteration 0 of layer 5 for PenTest
+Starting training at time 22:05:05.309491 with 16 inputs, 10 outputs, [5] hidden layers, size of training set 7494, and
+size of test set 3498
+Finished after 201 iterations at time 22:07:14.193184 with training error 0.005219 and weight change 0.000313
+Feed Forward Test correctly classified 2945, incorrectly classified 553, test accuracy 0.841910
+
+Iteration 1 of layer 5 for PenTest
+Starting training at time 22:07:14.266362 with 16 inputs, 10 outputs, [5] hidden layers, size of training set 7494, and
+size of test set 3498
+Finished after 201 iterations at time 22:09:23.838517 with training error 0.007502 and weight change 0.000495
+Feed Forward Test correctly classified 2774, incorrectly classified 724, test accuracy 0.793025
+
+Iteration 2 of layer 5 for PenTest
+Starting training at time 22:09:23.945489 with 16 inputs, 10 outputs, [5] hidden layers, size of training set 7494, and
+size of test set 3498
+Finished after 201 iterations at time 22:11:32.489742 with training error 0.005329 and weight change 0.000361
+Feed Forward Test correctly classified 2948, incorrectly classified 550, test accuracy 0.842767
+
+Iteration 3 of layer 5 for PenTest
+Starting training at time 22:11:32.562741 with 16 inputs, 10 outputs, [5] hidden layers, size of training set 7494, and
+size of test set 3498
+Finished after 201 iterations at time 22:13:40.742022 with training error 0.006130 and weight change 0.000309
+Feed Forward Test correctly classified 2935, incorrectly classified 563, test accuracy 0.839051
+
+Iteration 4 of layer 5 for PenTest
+Starting training at time 22:13:40.823023 with 16 inputs, 10 outputs, [5] hidden layers, size of training set 7494, and
+size of test set 3498
+Finished after 201 iterations at time 22:15:46.737137 with training error 0.004997 and weight change 0.000251
+Feed Forward Test correctly classified 3000, incorrectly classified 498, test accuracy 0.857633
+
+PenTest finished
+Max: 0.857633
+Average: 0.834877
+Standard Deviation: 0.021902
+Iteration 0 of layer 10 for PenTest
+Starting training at time 22:15:46.815106 with 16 inputs, 10 outputs, [10] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 201 iterations at time 22:19:12.761017 with training error 0.003012 and weight change 0.000102
+Feed Forward Test correctly classified 3096, incorrectly classified 402, test accuracy 0.885077
+
+Iteration 1 of layer 10 for PenTest
+Starting training at time 22:19:12.870210 with 16 inputs, 10 outputs, [10] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 201 iterations at time 22:22:44.300573 with training error 0.003753 and weight change 0.000111
+Feed Forward Test correctly classified 3045, incorrectly classified 453, test accuracy 0.870497
+
+Iteration 2 of layer 10 for PenTest
+Starting training at time 22:22:44.410555 with 16 inputs, 10 outputs, [10] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 201 iterations at time 22:26:27.149926 with training error 0.002947 and weight change 0.000111
+Feed Forward Test correctly classified 3095, incorrectly classified 403, test accuracy 0.884791
+
+Iteration 3 of layer 10 for PenTest
+Starting training at time 22:26:27.289927 with 16 inputs, 10 outputs, [10] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 201 iterations at time 22:30:23.874748 with training error 0.003017 and weight change 0.000121
+Feed Forward Test correctly classified 3110, incorrectly classified 388, test accuracy 0.889079
+
+Iteration 4 of layer 10 for PenTest
+Starting training at time 22:30:24.011610 with 16 inputs, 10 outputs, [10] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 201 iterations at time 22:34:27.116200 with training error 0.002907 and weight change 0.000110
+Feed Forward Test correctly classified 3111, incorrectly classified 387, test accuracy 0.889365
+
+PenTest finished
+Max: 0.889365
+Average: 0.883762
+Standard Deviation: 0.006905
+Iteration 0 of layer 15 for PenTest
+Starting training at time 22:34:27.313202 with 16 inputs, 10 outputs, [15] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 152 iterations at time 22:38:46.363366 with training error 0.002635 and weight change 0.000080
+Feed Forward Test correctly classified 3179, incorrectly classified 319, test accuracy 0.908805
+
+Iteration 1 of layer 15 for PenTest
+Starting training at time 22:38:46.540395 with 16 inputs, 10 outputs, [15] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 117 iterations at time 22:42:13.407789 with training error 0.002794 and weight change 0.000080
+Feed Forward Test correctly classified 3142, incorrectly classified 356, test accuracy 0.898228
+
+Iteration 2 of layer 15 for PenTest
+Starting training at time 22:42:13.613345 with 16 inputs, 10 outputs, [15] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 114 iterations at time 22:45:32.126401 with training error 0.003463 and weight change 0.000080
+Feed Forward Test correctly classified 3080, incorrectly classified 418, test accuracy 0.880503
+
+Iteration 3 of layer 15 for PenTest
+Starting training at time 22:45:32.324405 with 16 inputs, 10 outputs, [15] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 141 iterations at time 22:49:37.222359 with training error 0.002589 and weight change 0.000080
+Feed Forward Test correctly classified 3187, incorrectly classified 311, test accuracy 0.911092
+
+Iteration 4 of layer 15 for PenTest
+Starting training at time 22:49:37.418360 with 16 inputs, 10 outputs, [15] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 145 iterations at time 22:53:53.128536 with training error 0.002691 and weight change 0.000080
+Feed Forward Test correctly classified 3158, incorrectly classified 340, test accuracy 0.902802
+
+PenTest finished
+Max: 0.911092
+Average: 0.900286
+Standard Deviation: 0.010874
+Iteration 0 of layer 20 for PenTest
+Starting training at time 22:53:53.315569 with 16 inputs, 10 outputs, [20] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 108 iterations at time 22:57:51.668134 with training error 0.002749 and weight change 0.000080
+Feed Forward Test correctly classified 3149, incorrectly classified 349, test accuracy 0.900229
+
+Iteration 1 of layer 20 for PenTest
+Starting training at time 22:57:51.922180 with 16 inputs, 10 outputs, [20] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 80 iterations at time 23:00:48.588026 with training error 0.002975 and weight change 0.000080
+Feed Forward Test correctly classified 3104, incorrectly classified 394, test accuracy 0.887364
+
+Iteration 2 of layer 20 for PenTest
+Starting training at time 23:00:48.848074 with 16 inputs, 10 outputs, [20] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 89 iterations at time 23:04:11.221354 with training error 0.002646 and weight change 0.000080
+Feed Forward Test correctly classified 3153, incorrectly classified 345, test accuracy 0.901372
+
+Iteration 3 of layer 20 for PenTest
+Starting training at time 23:04:11.517410 with 16 inputs, 10 outputs, [20] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 82 iterations at time 23:07:14.726432 with training error 0.002753 and weight change 0.000080
+Feed Forward Test correctly classified 3162, incorrectly classified 336, test accuracy 0.903945
+
+Iteration 4 of layer 20 for PenTest
+Starting training at time 23:07:14.983477 with 16 inputs, 10 outputs, [20] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 91 iterations at time 23:10:46.032199 with training error 0.002889 and weight change 0.000080
+Feed Forward Test correctly classified 3165, incorrectly classified 333, test accuracy 0.904803
+
+PenTest finished
+Max: 0.904803
+Average: 0.899543
+Standard Deviation: 0.006312
+Iteration 0 of layer 25 for PenTest
+Starting training at time 23:10:46.272316 with 16 inputs, 10 outputs, [25] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 64 iterations at time 23:13:16.300647 with training error 0.002918 and weight change 0.000080
+Feed Forward Test correctly classified 3160, incorrectly classified 338, test accuracy 0.903373
+
+Iteration 1 of layer 25 for PenTest
+Starting training at time 23:13:16.546723 with 16 inputs, 10 outputs, [25] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 71 iterations at time 23:15:47.648329 with training error 0.002630 and weight change 0.000080
+Feed Forward Test correctly classified 3182, incorrectly classified 316, test accuracy 0.909663
+
+Iteration 2 of layer 25 for PenTest
+Starting training at time 23:15:47.872340 with 16 inputs, 10 outputs, [25] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 72 iterations at time 23:18:21.337295 with training error 0.002749 and weight change 0.000080
+Feed Forward Test correctly classified 3142, incorrectly classified 356, test accuracy 0.898228
+
+Iteration 3 of layer 25 for PenTest
+Starting training at time 23:18:21.563342 with 16 inputs, 10 outputs, [25] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 61 iterations at time 23:20:32.702844 with training error 0.002687 and weight change 0.000079
+Feed Forward Test correctly classified 3172, incorrectly classified 326, test accuracy 0.906804
+
+Iteration 4 of layer 25 for PenTest
+Starting training at time 23:20:32.917877 with 16 inputs, 10 outputs, [25] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 68 iterations at time 23:22:57.772218 with training error 0.002817 and weight change 0.000080
+Feed Forward Test correctly classified 3156, incorrectly classified 342, test accuracy 0.902230
+
+PenTest finished
+Max: 0.909663
+Average: 0.904059
+Standard Deviation: 0.003918
+Iteration 0 of layer 30 for PenTest
+Starting training at time 23:22:58.020898 with 16 inputs, 10 outputs, [30] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 64 iterations at time 23:25:34.963602 with training error 0.002864 and weight change 0.000080
+Feed Forward Test correctly classified 3155, incorrectly classified 343, test accuracy 0.901944
+
+Iteration 1 of layer 30 for PenTest
+Starting training at time 23:25:35.226621 with 16 inputs, 10 outputs, [30] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 59 iterations at time 23:28:00.634981 with training error 0.002668 and weight change 0.000079
+Feed Forward Test correctly classified 3163, incorrectly classified 335, test accuracy 0.904231
+
+Iteration 2 of layer 30 for PenTest
+Starting training at time 23:28:00.967010 with 16 inputs, 10 outputs, [30] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 63 iterations at time 23:30:31.701963 with training error 0.002800 and weight change 0.000079
+Feed Forward Test correctly classified 3144, incorrectly classified 354, test accuracy 0.898799
+
+Iteration 3 of layer 30 for PenTest
+Starting training at time 23:30:31.945010 with 16 inputs, 10 outputs, [30] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 59 iterations at time 23:32:51.225828 with training error 0.002843 and weight change 0.000080
+Feed Forward Test correctly classified 3163, incorrectly classified 335, test accuracy 0.904231
+
+Iteration 4 of layer 30 for PenTest
+Starting training at time 23:32:51.463901 with 16 inputs, 10 outputs, [30] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 52 iterations at time 23:34:52.447356 with training error 0.002787 and weight change 0.000080
+Feed Forward Test correctly classified 3161, incorrectly classified 337, test accuracy 0.903659
+
+PenTest finished
+Max: 0.904231
+Average: 0.902573
+Standard Deviation: 0.002065
+Iteration 0 of layer 35 for PenTest
+Starting training at time 23:34:52.687405 with 16 inputs, 10 outputs, [35] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 51 iterations at time 23:37:10.636004 with training error 0.002715 and weight change 0.000079
+Feed Forward Test correctly classified 3161, incorrectly classified 337, test accuracy 0.903659
+
+Iteration 1 of layer 35 for PenTest
+Starting training at time 23:37:10.921025 with 16 inputs, 10 outputs, [35] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 53 iterations at time 23:39:32.833395 with training error 0.003027 and weight change 0.000079
+Feed Forward Test correctly classified 3119, incorrectly classified 379, test accuracy 0.891652
+
+Iteration 2 of layer 35 for PenTest
+Starting training at time 23:39:33.144422 with 16 inputs, 10 outputs, [35] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 51 iterations at time 23:41:49.251717 with training error 0.002759 and weight change 0.000080
+Feed Forward Test correctly classified 3170, incorrectly classified 328, test accuracy 0.906232
+
+Iteration 3 of layer 35 for PenTest
+Starting training at time 23:41:49.552739 with 16 inputs, 10 outputs, [35] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 48 iterations at time 23:43:59.334858 with training error 0.002909 and weight change 0.000079
+Feed Forward Test correctly classified 3168, incorrectly classified 330, test accuracy 0.905660
+
+Iteration 4 of layer 35 for PenTest
+Starting training at time 23:43:59.610907 with 16 inputs, 10 outputs, [35] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 54 iterations at time 23:46:24.874870 with training error 0.002923 and weight change 0.000080
+Feed Forward Test correctly classified 3111, incorrectly classified 387, test accuracy 0.889365
+
+PenTest finished
+Max: 0.906232
+Average: 0.899314
+Standard Deviation: 0.007276
+Iteration 0 of layer 40 for PenTest
+Starting training at time 23:46:25.185911 with 16 inputs, 10 outputs, [40] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 43 iterations at time 23:48:41.167191 with training error 0.002950 and weight change 0.000080
+Feed Forward Test correctly classified 3113, incorrectly classified 385, test accuracy 0.889937
+
+Iteration 1 of layer 40 for PenTest
+Starting training at time 23:48:41.470215 with 16 inputs, 10 outputs, [40] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 45 iterations at time 23:51:02.835480 with training error 0.003043 and weight change 0.000080
+Feed Forward Test correctly classified 3112, incorrectly classified 386, test accuracy 0.889651
+
+Iteration 2 of layer 40 for PenTest
+Starting training at time 23:51:03.198547 with 16 inputs, 10 outputs, [40] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 47 iterations at time 23:53:40.112541 with training error 0.002927 and weight change 0.000079
+Feed Forward Test correctly classified 3158, incorrectly classified 340, test accuracy 0.902802
+
+Iteration 3 of layer 40 for PenTest
+Starting training at time 23:53:40.455518 with 16 inputs, 10 outputs, [40] hidden layers, size of training set 7494, and
+ size of test set 3498
+Finished after 51 iterations at time 23:56:28.319162 with training error 0.002885 and weight change 0.000079
+Feed Forward Test correctly classified 3165, incorrectly classified 333, test accuracy 0.904803
+
+Iteration 4 of layer 40 for PenTest
+Starting training at time 23:56:28.717143 with 16 inputs, 10 outputs, [40] hidden layers, size of training set 7494, and size of test set 3498
+Finished after 49 iterations at time 23:59:08.222131 with training error 0.002786 and weight change 0.000080
+Feed Forward Test correctly classified 3150, incorrectly classified 348, test accuracy 0.900515
+
+PenTest finished
+Max: 0.904803
+Average: 0.897541
+Standard Deviation: 0.006470

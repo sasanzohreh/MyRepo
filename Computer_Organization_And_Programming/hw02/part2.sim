@@ -1,0 +1,189 @@
+{
+  "version": "1.8.2 2110 version",
+  "globalBitSize": 1,
+  "clockSpeed": 1,
+  "circuits": [
+    {
+      "name": "umbrella",
+      "components": [
+        {
+          "name": "com.ra4king.circuitsim.gui.peers.misc.Text",
+          "x": 21,
+          "y": 10,
+          "properties": {
+            "Text": "Advice"
+          }
+        },
+        {
+          "name": "com.ra4king.circuitsim.gui.peers.misc.Text",
+          "x": 17,
+          "y": 18,
+          "properties": {
+            "Text": "Cloudy"
+          }
+        },
+        {
+          "name": "com.ra4king.circuitsim.gui.peers.gates.AndGatePeer",
+          "x": 23,
+          "y": 15,
+          "properties": {
+            "Negate 1": "No",
+            "Label location": "NORTH",
+            "Negate 0": "No",
+            "Number of Inputs": "2",
+            "Label": "",
+            "Direction": "EAST",
+            "Bitsize": "1"
+          }
+        },
+        {
+          "name": "com.ra4king.circuitsim.gui.peers.gates.OrGatePeer",
+          "x": 32,
+          "y": 11,
+          "properties": {
+            "Negate 1": "No",
+            "Label location": "NORTH",
+            "Negate 0": "No",
+            "Number of Inputs": "2",
+            "Label": "",
+            "Direction": "EAST",
+            "Bitsize": "1"
+          }
+        },
+        {
+          "name": "com.ra4king.circuitsim.gui.peers.wiring.PinPeer",
+          "x": 10,
+          "y": 11,
+          "properties": {
+            "Label location": "WEST",
+            "Label": "in",
+            "Is input?": "Yes",
+            "Direction": "EAST",
+            "Bitsize": "3"
+          }
+        },
+        {
+          "name": "com.ra4king.circuitsim.gui.peers.wiring.PinPeer",
+          "x": 31,
+          "y": 28,
+          "properties": {
+            "Label location": "EAST",
+            "Label": "out",
+            "Is input?": "No",
+            "Direction": "WEST",
+            "Bitsize": "1"
+          }
+        },
+        {
+          "name": "com.ra4king.circuitsim.gui.peers.wiring.Tunnel",
+          "x": 17,
+          "y": 28,
+          "properties": {
+            "Label": "umbrella",
+            "Direction": "EAST",
+            "Bitsize": "1"
+          }
+        },
+        {
+          "name": "com.ra4king.circuitsim.gui.peers.wiring.Tunnel",
+          "x": 41,
+          "y": 12,
+          "properties": {
+            "Label": "umbrella",
+            "Direction": "WEST",
+            "Bitsize": "1"
+          }
+        },
+        {
+          "name": "com.ra4king.circuitsim.gui.peers.misc.Text",
+          "x": 18,
+          "y": 13,
+          "properties": {
+            "Text": "Windy"
+          }
+        },
+        {
+          "name": "com.ra4king.circuitsim.gui.peers.wiring.SplitterPeer",
+          "x": 13,
+          "y": 12,
+          "properties": {
+            "Label location": "NORTH",
+            "Fanouts": "3",
+            "Input location": "Left/Top",
+            "Label": "",
+            "Bit 2": "2",
+            "Direction": "EAST",
+            "Bit 1": "1",
+            "Bitsize": "3",
+            "Bit 0": "0"
+          }
+        }
+      ],
+      "wires": [
+        {
+          "x": 15,
+          "y": 12,
+          "length": 2,
+          "isHorizontal": false
+        },
+        {
+          "x": 15,
+          "y": 12,
+          "length": 17,
+          "isHorizontal": true
+        },
+        {
+          "x": 15,
+          "y": 15,
+          "length": 8,
+          "isHorizontal": true
+        },
+        {
+          "x": 15,
+          "y": 16,
+          "length": 2,
+          "isHorizontal": false
+        },
+        {
+          "x": 15,
+          "y": 18,
+          "length": 8,
+          "isHorizontal": true
+        },
+        {
+          "x": 23,
+          "y": 15,
+          "length": 1,
+          "isHorizontal": false
+        },
+        {
+          "x": 26,
+          "y": 29,
+          "length": 5,
+          "isHorizontal": true
+        },
+        {
+          "x": 27,
+          "y": 17,
+          "length": 5,
+          "isHorizontal": true
+        },
+        {
+          "x": 32,
+          "y": 14,
+          "length": 3,
+          "isHorizontal": false
+        },
+        {
+          "x": 36,
+          "y": 13,
+          "length": 5,
+          "isHorizontal": true
+        }
+      ]
+    }
+  ],
+  "revisionSignatures": [
+    "CTg5NDJkZjdhZWIzOWRlYmU1NDc2MDM2OGIxZWEyYmQzYjUzYTBhNWY5OTQ5M2JmNmM0MzQ4YjRhOTgxY2YzMDUJMTYxMjkwODc3NTQ3MAllYjI5OTMxMTBiOTFhYTgzNDgzOWMzMWZiYTAyMDkxYjcxYzNkZGYwZTdjNWQzMjIzOTIyYWZkMDYxNDA3NjA3"
+  ]
+}

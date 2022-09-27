@@ -1,0 +1,37 @@
+TOP FLOOR:
+You will begin on the top level of the building. From here, you will need to explore the top floor and find hidden keys. One key is hidden behind a plant (you can click to move the plant, or directly walk over it (i.e. collide)) in order to get the key. From where you initially start, you want to turn left, left again, and right ahead should be a large plant. This is where the first key is. To get the second key, you want to continue to go forward from the plant toward where there are more desks -- the second key is in plain sight, on the floor. After you retrieve both keys, you will be able to open the door to the elevator. To open the door, you have to click on the door for it to swing open.
+
+Note that the entire time you are on this floor, a monster AI is also chasing you. We have not yet implemented a "death" functionality if he catches you, so he won't technically do anything to the player. But the AI does follow you and can predict where exactly you're likely to move next.
+
+After you open the door to the elevator, you'll enter a room that is flooding. Manipulate the levers in order to open the elevator door. 
+
+*The controls for the levers are Q, W, and E to toggle them. For our build, if you press the "W" key (i.e. toggle the second lever), the elevator doors should open. 
+
+
+-> Known problem areas for this floor: Some of the animations are a bit slow, and it can be tedious. Next, the clicking behavior works but it sometimes takes a bit to register-- we'll have to figure out a better way that isn't so dependent on whether or not the raycast is colliding with the object itself. We also want to implement the monster's ability to injure / "kill" the player. Lastly, we want to better implement the water features, as it currently isn't really conforming to the physics of water. 
+
+SECOND FLOOR:
+For this floor, the main goal is to interact with a chemistry set that's on this floor. Interacting with the set will allow you to make a "potion" that you'll be able to throw. In the future, this potion would essentially kill the monster. (Please note this is not yet implemented.)
+
+From the elevator, you will want to go straight, take the first right, go straight, and then take a left-- straight ahead should be the chemistry set. To interact with the set, you have to click on the bottles (the easiest way to tell if you actually are "holding" them is to try moving them-- the potion should follow your mouse) and press space to "pour" the potion. Respectively, that'll fill the large bottle and empty the small bottles. On the far right of the table, there is an empty potion bottle. Once you finish pouring the three bottles into the large bottle, you can click the empty "pickup potion" and press space to fill it. Press space again to hold it in your hands (this is visualized).
+
+To throw, you can press the left control button. This will be better implemented post-alpha.
+
+Note that on the second floor, you again have an AI chasing you to prevent you from interacting with the set. As of now, there is no consequence if he "catches" you.
+
+-> Known problem areas for this floor: The clicking behavior for the potions might be a bit too slow considering the player is also running from a monster. Again, registering the mouse click can take a few different tries for it to actually register, which would be frustrating for the player. Again, will plan to implement an "injure" / "kill" for the player.
+
+
+THIRD FLOOR:
+For this floor, it is mainly exploratory at this time. You can press F to toggle the flashlight on and off. Currently there isn't anybody chasing you on this floor; the main goal is to find your way out using only a flashlight to light your way. We will likely introduce an AI element on this floor as well-- the darkness should make it even more difficult for the player to escape the AI.
+
+
+OVERALL CONTROLS:
+
+Left mouse click: interact with plants, doors, potions (to move potions)
+
+Q, W, E keys: to interact with the levers
+
+Spacebar: to trigger the potion animations and to pick up the potion
+
+F: to trigger the flashlight

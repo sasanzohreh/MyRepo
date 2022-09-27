@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Start Screen.unity
+    guid: 6d9de2d9f397d430d841773c99ad7471
+  - enabled: 1
+    path: Assets/Scenes/Objectives & Controls.unity
+    guid: 19ad00b82e38f4cbdb9aa71cd8b51d46
+  - enabled: 1
+    path: Assets/Scenes/Death Screen.unity
+    guid: 614a81baa7fb04c91b864924df628fe8
+  - enabled: 1
+    path: Assets/Scenes/demo.unity
+    guid: 9a818cd70b8054018939368603044c85
+  - enabled: 1
+    path: Assets/Scenes/second floor (below top).unity
+    guid: 3b4cdb9bf17ca684ca3ac17a95858a50
+  - enabled: 1
+    path: Assets/Scenes/level oscar (below level two).unity
+    guid: 653fe665941e36546b7f9164296fd5ee
+  - enabled: 1
+    path: Assets/Scenes/ground level 1.unity
+    guid: d7cf38dbdbcefdd458263415957c3be2
+  m_configObjects: {}

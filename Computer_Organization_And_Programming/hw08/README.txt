@@ -1,0 +1,2 @@
+In this game, your goal to collect all the Pokemon on the screen. 
+You begin the game by pressing START (Enter) and at any point in the game you can press SELECT (Backspace) to return to the start screen. You can move the player with the UP, DOWN, RIGHT, LEFT controls which move the player in a respective fashion. When next to a Pokemon, pressing A (Z) will "catch" them and they will disappear. Catching them all will result in a win.

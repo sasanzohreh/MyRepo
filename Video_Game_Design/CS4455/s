@@ -1,0 +1,401 @@
+[33mcommit 8437998d1e92d795d691b926d9e4a030fd8d6066[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: e8324ed c52b07c
+Author: Wang, Alice <awang90@gatech.edu>
+Date:   Tue Apr 5 20:30:24 2022 -0400
+
+    Merge pull request #5 from mmurali35/screen-functionality
+    
+    Screens functionality
+
+[33mcommit c52b07c9941d14106b61ac728b5bc84d9adda84a[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Apr 5 20:05:43 2022 -0400
+
+    Death Screen Functionality
+
+[33mcommit 22bebccd636c1f3877bf7666ab8a5b976776b862[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Apr 5 19:51:08 2022 -0400
+
+    Added Collider Script (Enemy)
+
+[33mcommit 1bc67563b534c390032d5027470dc8f98b579d42[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Apr 5 19:39:09 2022 -0400
+
+    Edited speed on second level
+
+[33mcommit 6525a6a22b3dc7a5d43ee43fe9603dcb1627f31f[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Apr 5 19:35:17 2022 -0400
+
+    Slowed Down on Top Level
+
+[33mcommit 9170bd2375c29add02082a3cc9f01b3c6864a5f1[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Apr 5 19:28:26 2022 -0400
+
+    Death Screen Added, Functionality added
+
+[33mcommit ddc1eefa3f95478d49e76a130c5e0379da51bff1[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Apr 5 19:14:47 2022 -0400
+
+    saveme script adjusted, multiple character bug fixed
+
+[33mcommit 48191daa2fd61f160e18ea92b417624ebf8155db[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Apr 5 18:22:53 2022 -0400
+
+    Death Screen Scene Added
+
+[33mcommit ff73631b3255955c5dd7278f0920407580d1b691[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Apr 5 18:10:31 2022 -0400
+
+    Update EditorUserSettings.asset
+
+[33mcommit 846fd1acfe438ca450d48596f7beed5ffc3f82d3[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Apr 5 17:58:06 2022 -0400
+
+    Back Button Functionality Added
+
+[33mcommit 87406972a2d48fc75886d45da18888658f298d90[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Apr 5 17:49:29 2022 -0400
+
+    Back Button Functionality added
+
+[33mcommit a974dbf56f1d1662dcbef16de1611cda8a55dda5[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Apr 5 17:43:10 2022 -0400
+
+    Instructions Screen created
+
+[33mcommit b731f89805a65401a26249ffb11a83fda32fed0b[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Apr 5 17:23:32 2022 -0400
+
+    Buttons and title added
+    
+    scripts added for start and quit
+
+[33mcommit 839344835c793d393893ac2599b132ec2bafb893[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Apr 5 16:59:32 2022 -0400
+
+    Changed key
+    
+    * also corrected minor bug
+
+[33mcommit e8324ed564d66bbb175c475d06935e489348692c[m
+Author: 刘益和 <liuyihe@interns.ainnovation.com>
+Date:   Tue Apr 5 16:16:28 2022 -0400
+
+    sceneTransition
+
+[33mcommit 3587f60f4588363451658701d84d2cd626e75e9a[m[33m ([m[1;31morigin/chemistry-corrections[m[33m)[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Apr 5 01:48:22 2022 -0400
+
+    Reactivated door and enemy + Switched back to 123 for easy testing
+    
+    *remember to toggle off when testing specifically for alice
+
+[33mcommit 301a3522cd9eecbd6282a4831b355d951aa79bbd[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Apr 5 01:45:36 2022 -0400
+
+    Switched to QWE controls
+
+[33mcommit f17655438363543530e6dd8c74c93ca1c251a8af[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Apr 5 01:27:26 2022 -0400
+
+    Corrected counter error
+
+[33mcommit 05ec96283b65552aa29fb19056a65abcc25e2ec8[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Apr 5 01:02:04 2022 -0400
+
+    Correction for repeat third pour
+
+[33mcommit 7759ae4dd6985c53db1078e6bfac4960ecfb7c24[m
+Author: sasanzohreh <sasanzohreh@yahoo.com>
+Date:   Tue Apr 5 00:22:52 2022 -0400
+
+    Throwing updated
+    
+    Player throws faster and if potion hits monster both the potion and monster are destroyed.
+
+[33mcommit ce3cc3d42080bd317652d24872871459e5f7e666[m
+Author: 刘益和 <liuyihe@interns.ainnovation.com>
+Date:   Tue Mar 29 23:49:36 2022 -0400
+
+    split scene
+
+[33mcommit 48a4f8d8ba56aa8ca061f7257febf00c432c1a8b[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Mar 15 05:14:18 2022 -0400
+
+    moved monster
+
+[33mcommit e924fb1cc7dd3c28b9e59b3b68ad7738ff7316a7[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Mar 15 05:07:58 2022 -0400
+
+    Edited Keycodes for Levers
+
+[33mcommit ad624329b27477f2fc723b16e360c75b60193f3c[m
+Author: Madhumitha-Murali <madhu.mitha.murali98@gmail.com>
+Date:   Tue Mar 15 04:53:48 2022 -0400
+
+    Flooding
+
+[33mcommit 0a2ef6810be461884b3902cce8ee91bbb332278b[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Tue Mar 15 02:38:32 2022 -0400
+
+    Fixed plant and door behavior
+
+[33mcommit 492e32d9957c3295be83c299513d92940aeb0a7b[m
+Author: Marie Ow <marieow35@gmail.com>
+Date:   Tue Mar 15 01:52:07 2022 -0400
+
+    more changes to second game
+
+[33mcommit e4be991b5185d3ea8386dff9ba1c5b5d00d57c11[m
+Author: Marie Ow <marieow35@gmail.com>
+Date:   Tue Mar 15 00:59:05 2022 -0400
+
+    added key collecting func
+
+[33mcommit 008e99157ef30d9cc0f264adb3655e28a6ceeb45[m
+Author: Liu, Yihe <yliu3253@gatech.edu>
+Date:   Tue Mar 15 00:32:04 2022 -0400
+
+    Delete LightingData.asset.meta
+
+[33mcommit 3539138fe89ebf4963eea9aaa283eb8a3cf06f1b[m
+Author: 刘益和 <liuyihe@interns.ainnovation.com>
+Date:   Tue Mar 15 00:30:36 2022 -0400
+
+    dsfd
+
+[33mcommit 485e810af2529d8b3708dd42144063c9d2ac088f[m
+Author: 刘益和 <liuyihe@interns.ainnovation.com>
+Date:   Tue Mar 15 00:28:41 2022 -0400
+
+    adfdsdaf
+
+[33mcommit c800a8310aab88d5c6ed3318c2edbd6be41288e0[m
+Author: 刘益和 <liuyihe@interns.ainnovation.com>
+Date:   Mon Mar 14 23:22:16 2022 -0400
+
+    daasdffd
+
+[33mcommit 07d9b4f37185f411a5c84e0b82f3969067fa90d2[m
+Merge: 1dbff46 1e9c738
+Author: 刘益和 <liuyihe@interns.ainnovation.com>
+Date:   Mon Mar 14 23:10:03 2022 -0400
+
+    Merge branch 'master' of https://github.gatech.edu/mmurali35/CS4455
+
+[33mcommit 1dbff46bdcdd31797b2a1a1853f7bb3a5dc73308[m
+Author: 刘益和 <liuyihe@interns.ainnovation.com>
+Date:   Mon Mar 14 23:09:44 2022 -0400
+
+    dafdf
+
+[33mcommit 1e9c7389f74febb308f5ac65f1fb1b2452a4a6a1[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Mon Mar 14 23:07:38 2022 -0400
+
+    Removed matchToButtonPress booleans, deactivated potionController in UICanvas
+
+[33mcommit 57561c048cdb13fdf31a3b41b11da29f9abfa702[m
+Author: sasanzohreh <sasanzohreh@yahoo.com>
+Date:   Mon Mar 14 22:41:16 2022 -0400
+
+    Throwing updated
+
+[33mcommit 7d3cfc256f208b174f79cebfda3e261e40333999[m
+Author: sasanzohreh <sasanzohreh@yahoo.com>
+Date:   Mon Mar 14 22:38:56 2022 -0400
+
+    Player can throw potion after combining
+
+[33mcommit abc9b0960b09da6bf963dfcc69a6e96a45b90623[m
+Author: sasanzohreh <sasanzohreh@yahoo.com>
+Date:   Mon Mar 14 18:05:17 2022 -0400
+
+    Basics of throwing
+
+[33mcommit 608b6e2261c83de51509392e7ef8fe288f8fd615[m
+Merge: 702ec3b 5a65530
+Author: Wang, Alice <awang90@gatech.edu>
+Date:   Mon Mar 14 02:18:47 2022 -0400
+
+    Merge pull request #3 from mmurali35/zombie-AI-new
+    
+    Added footsteps to AI
+
+[33mcommit 5a6553006fb0f29676ce8f46b466a4ba0c7d54d8[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Mon Mar 14 02:17:50 2022 -0400
+
+    Added sound to second monster
+
+[33mcommit 8a3008003ea5003d5f416ae428de440516933c01[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Mon Mar 14 00:47:50 2022 -0400
+
+    Edited sound spread based on distance
+
+[33mcommit 8b22f483401f779675b299f709f45056e3f585d7[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Mon Mar 14 00:21:25 2022 -0400
+
+    added sound asset
+
+[33mcommit 702ec3b8436020eb8f062dc6727fa71993aa6a09[m
+Merge: c8e8ff8 f60d1d5
+Author: Wang, Alice <awang90@gatech.edu>
+Date:   Sun Mar 13 23:35:12 2022 -0400
+
+    Merge pull request #2 from mmurali35/zombie-AI-new
+    
+    Monster AI on Top and Second Floor
+
+[33mcommit f60d1d53d3c32889d9d3f35b539da524ddd5ea90[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Sun Mar 13 23:32:11 2022 -0400
+
+    Minor Controller Changes
+
+[33mcommit 61d69d693ec44146a65ff0bb90b4e476fae74e93[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Sun Mar 13 23:30:42 2022 -0400
+
+    Monster AI on Second Floor
+
+[33mcommit 4d675e09fe464ccbfdee458184b59a9c6e1d9837[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Sun Mar 13 20:47:50 2022 -0400
+
+    Set walking and running anims to loop for monster
+
+[33mcommit ec53d524dc525080dc7c7ae5df19623a2df2c5ec[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Sun Mar 13 20:09:39 2022 -0400
+
+    Widened doorframes
+    
+    Monster can travel entire floor
+
+[33mcommit b257f0e63b409f25a7da4328adf22307c1b6f6d3[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Sun Mar 13 19:30:06 2022 -0400
+
+    TODO: Edit NavMesh
+    
+    - Edit navmesh so that the monster can traverse the whole floor
+    - right now he gets stuck in places (so might have to move things around) and also nav meshes do not connect through the doorways, which makes him confused
+
+[33mcommit b4dc712e771abd86982b30595e658addf4e12bb7[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Sun Mar 13 19:04:25 2022 -0400
+
+    Added Enemy Movement Script, Deleted Enemy Transition to Death
+
+[33mcommit 5fea47a0e6132581d101308be0939c9cbe0551fc[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Sun Mar 13 16:32:40 2022 -0400
+
+    Edits to NavMesh
+    
+    - took away some details in environment for navmesh accommodation
+
+[33mcommit c8e8ff8cf73d7b8059ba9dacc23c2136ac8b6b65[m
+Merge: c013d27 7c3e386
+Author: Wang, Alice <awang90@gatech.edu>
+Date:   Sun Mar 13 16:14:41 2022 -0400
+
+    Merge pull request #1 from mmurali35/zombie-AI-new
+    
+    Zombie Asset Addition and NavMeshComponents Imported
+
+[33mcommit 7c3e38685c51961c0a079b3c55778442dd83a320[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Sun Mar 13 16:12:50 2022 -0400
+
+    Imported NavMeshComponents
+
+[33mcommit c4a6b65dd54bea3c452042c5c0dee32c2e1ef691[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Sun Mar 13 15:56:58 2022 -0400
+
+    Imported Zombie Asset
+
+[33mcommit c013d2787df33ec6a75641bc1187de1e4d562c64[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Sun Mar 13 15:49:34 2022 -0400
+
+    Deleted Doors
+
+[33mcommit 110cf031c6e8c1766c744f1860788d8a99d1308e[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Sun Mar 13 15:48:58 2022 -0400
+
+    Deleted Doors
+
+[33mcommit b755a7264e6837696dc84a328c3e3b19649ff97e[m
+Author: 刘益和 <liuyihe@interns.ainnovation.com>
+Date:   Sun Mar 13 14:10:40 2022 -0400
+
+    addfdsfa
+
+[33mcommit 16f2ae1fb9b8b2cdbe92a6bb11ace041ae3e8487[m
+Author: 刘益和 <liuyihe@interns.ainnovation.com>
+Date:   Sun Mar 13 13:30:24 2022 -0400
+
+    level oscar
+
+[33mcommit 2e84f45add9950c701e5c3c5ab0c732e28d7b8d8[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Sat Mar 12 20:19:29 2022 -0500
+
+    Fixed Pour Behavior
+    
+    - inactivate first or second pour respectively
+
+[33mcommit c459b380d08e07e96c4ea8005ad62e716fc9cbfb[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Sat Mar 12 20:10:58 2022 -0500
+
+    Tested Chemistry Behavior Script
+
+[33mcommit ff6a5a887c739140de9a9ea57fe893a3cbcce390[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Sat Mar 12 19:56:29 2022 -0500
+
+    Added ChemistryBehavior Script
+
+[33mcommit 3abdbf6557760b68b196e905a42fe74bc8219e20[m
+Author: alice-w129 <89612205+alice-w129@users.noreply.github.com>
+Date:   Sat Mar 12 19:53:25 2022 -0500
+
+    Loaded in Chemistry Set
+
+[33mcommit 9b34704cb0760c1536a5e0535f26441337044b92[m
+Author: 刘益和 <liuyihe@interns.ainnovation.com>
+Date:   Fri Mar 11 17:56:18 2022 -0500
+
+    daffsdf
+
+[33mcommit 0cb887e9fc8c855e617f17df47abad98cdbfdc21[m
+Author: 刘益和 <liuyihe@interns.ainnovation.com>
+Date:   Fri Mar 11 16:21:18 2022 -0500
+
+    dafsf
