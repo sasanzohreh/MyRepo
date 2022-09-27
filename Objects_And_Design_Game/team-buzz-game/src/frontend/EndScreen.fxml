@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Text?>
+<?import javafx.geometry.Insets?>
+
+<StackPane prefHeight="1400" prefWidth="900" xmlns:fx="http://javafx.com/fxml/" fx:controller="controllers.EndScreen">
+    <ImageView fx:id="winScreen" preserveRatio="true" />
+</StackPane>

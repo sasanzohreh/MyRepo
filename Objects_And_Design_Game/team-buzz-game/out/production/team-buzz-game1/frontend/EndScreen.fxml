@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Text?>
+<?import javafx.geometry.Insets?>
+
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Label?>
+<StackPane prefHeight="1400" prefWidth="900" xmlns:fx="http://javafx.com/fxml/" fx:controller="controllers.EndScreen">
+    <ImageView fx:id="winScreen" preserveRatio="true" />
+    <BorderPane>
+        <padding>
+            <Insets bottom="200"/>
+        </padding>
+        <center>
+            <VBox alignment="BOTTOM_CENTER" spacing="30">
+                <HBox spacing="20" alignment="CENTER">
+                    <Label fx:id="monsterStat" textFill="white" style="-fx-font-size: 20px"/>
+                    <Label fx:id="timeStat" textFill="white" style="-fx-font-size: 20px"/>
+                    <Label fx:id="damageStat" textFill="white" style="-fx-font-size: 20px"/>
+                </HBox>
+                <HBox spacing="20" alignment="CENTER">
+                    <Button text="Restart Game" focusTraversable="false" onMouseClicked="#restartClicked">
+                        <style>
+                            -fx-background-color: #ffe76e;
+                            -fx-text-fill: #654b00;
+                            -fx-font-weight: bold;
+                            -fx-font-size: 14px;
+                            -fx-padding: 10 20 10 20;
+                        </style>
+                    </Button>
+                    <Button text="Quit Game" focusTraversable="false" onMouseClicked="#quitGame">
+                        <style>
+                            -fx-background-color: #ffe76e;
+                            -fx-text-fill: #654b00;
+                            -fx-font-weight: bold;
+                            -fx-font-size: 14px;
+                            -fx-padding: 10 20 10 20;
+                        </style>
+                    </Button>
+                </HBox>
+            </VBox>
+
+        </center>
+    </BorderPane>
+
+</StackPane>

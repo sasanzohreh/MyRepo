@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.image.ImageView?>
+<StackPane xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="frontend.InventoryPopup" prefHeight="300.0" prefWidth="250.0">
+    <ImageView fx:id="backgroundView" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER"/>
+    <BorderPane>
+        <padding>
+            <Insets bottom="20" right="20"/>
+        </padding>
+        <center>
+            <VBox BorderPane.alignment="CENTER" alignment="CENTER" spacing="20">
+                <HBox spacing="20" alignment="CENTER">
+                    <Label text="Select Weapon">
+                        <style>
+                            -fx-font-family: Verdana;
+<!--                            -fx-font-weight: bold;-->
+                            -fx-font-size: 24px;
+                            -fx-text-fill: #ffe76e;
+                        </style>
+                    </Label>
+                    <ComboBox fx:id="weaponDropDown">
+                        <style>
+
+                            -fx-font-weight: bold;
+                            -fx-font-size: 14px;
+                            -fx-text-fill: #ffe76e;
+                        </style>
+                    </ComboBox>
+                </HBox>
+
+                <HBox spacing="20" alignment="CENTER">
+                    <Label fx:id="smallHealthPotionLabel">
+                        <style>
+                            -fx-font-family: Verdana;
+<!--                            -fx-font-weight: bold;-->
+                            -fx-font-size: 24px;
+                            -fx-text-fill: #ffe76e;
+                        </style>
+                    </Label>
+                    <Button text="Use Potion" onMouseClicked="#useSmallHealthPotion" mnemonicParsing="false" focusTraversable="false">
+                        <style>
+                            -fx-background-color: #ffe76e;
+                            -fx-text-fill: #654b00;
+                            -fx-font-weight: bold;
+                            -fx-font-size: 14px;
+                            -fx-padding: 5 10 5 10;
+                        </style>
+                    </Button>
+                </HBox>
+
+                <HBox spacing="20" alignment="CENTER">
+                    <Label fx:id="smallDamagePotionLabel">
+                        <style>
+                            -fx-font-family: Verdana;
+<!--                            -fx-font-weight: bold;-->
+                            -fx-font-size: 24px;
+                            -fx-text-fill: #ffe76e;
+                        </style>
+                    </Label>
+                    <Button text="Use Potion" onMouseClicked="#useSmallDamagePotion" mnemonicParsing="false" focusTraversable="false">
+                        <style>
+                            -fx-background-color: #ffe76e;
+                            -fx-text-fill: #654b00;
+                            -fx-font-weight: bold;
+                            -fx-font-size: 14px;
+                            -fx-padding: 5 10 5 10;
+                        </style>
+                    </Button>
+                </HBox>
+
+                <HBox spacing="20" alignment="CENTER">
+                    <Label fx:id="largeHealthPotionLabel">
+                        <style>
+                            -fx-font-family: Verdana;
+<!--                            -fx-font-weight: bold;-->
+                            -fx-font-size: 24px;
+                            -fx-text-fill: #ffe76e;
+                        </style>
+                    </Label>
+                    <Button text="Use Potion" onMouseClicked="#useLargeHealthPotion" mnemonicParsing="false" focusTraversable="false">
+                        <style>
+                            -fx-background-color: #ffe76e;
+                            -fx-text-fill: #654b00;
+                            -fx-font-weight: bold;
+                            -fx-font-size: 14px;
+                            -fx-padding: 5 10 5 10;
+                        </style>
+                    </Button>
+                </HBox>
+
+                <HBox spacing="20" alignment="CENTER">
+                    <Label fx:id="largeDamagePotionLabel">
+                        <style>
+                            -fx-font-family: Verdana;
+<!--                            -fx-font-weight: bold;-->
+                            -fx-font-size: 24px;
+                            -fx-text-fill: #ffe76e;
+                        </style>
+                    </Label>
+                    <Button text="Use Potion" onMouseClicked="#useLargeDamagePotion" mnemonicParsing="false" focusTraversable="false">
+                        <style>
+                            -fx-background-color: #ffe76e;
+                            -fx-text-fill: #654b00;
+                            -fx-font-weight: bold;
+                            -fx-font-size: 14px;
+                            -fx-padding: 5 10 5 10;
+                        </style>
+                    </Button>
+                </HBox>
+            </VBox>
+        </center>
+        <bottom>
+            <Button text="Save and Close" onMouseClicked="#saveAndClose" BorderPane.alignment="BOTTOM_RIGHT">
+                <style>
+                    -fx-background-color: #ffe76e;
+                    -fx-text-fill: #654b00;
+                    -fx-font-weight: bold;
+                    -fx-font-size: 12px;
+                    -fx-padding: 10 20 10 20;
+                </style>
+            </Button>
+        </bottom>
+    </BorderPane>
+
+</StackPane>

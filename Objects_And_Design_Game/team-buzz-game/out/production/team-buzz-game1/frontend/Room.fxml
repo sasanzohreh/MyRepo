@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+
+<StackPane fx:id="stackPane" onKeyPressed="#handleKeyPressed" prefHeight="900" prefWidth="1400" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.RoomController">
+    <ImageView fx:id="roomBackgroundView" pickOnBounds="true" BorderPane.alignment="CENTER" />
+    <Pane fx:id="mainPane">
+        <padding>
+            <Insets left="20"/>
+        </padding>
+        <VBox spacing="30">
+            <HBox spacing="15">
+                <ImageView fx:id="healthView" pickOnBounds="true" BorderPane.alignment="TOP_LEFT" />
+                <Label fx:id="healthLabel">
+                    <style>
+                        -fx-font-size: 36px;
+                        -fx-font-family: Times;
+                        -fx-text-fill: #fffaf0;
+                    </style>
+                </Label>
+            </HBox>
+            <HBox spacing="15">
+                <ImageView fx:id="goldView" pickOnBounds="true" BorderPane.alignment="TOP_LEFT" />
+                <Label fx:id="goldLabel">
+                    <style>
+                        -fx-font-size: 36px;
+                        -fx-font-family: Times;
+                        -fx-text-fill: #fffaf0;
+                    </style>
+                </Label>
+            </HBox>
+            <HBox spacing="15">
+                <ImageView fx:id="monsterHealthView" pickOnBounds="true" BorderPane.alignment="TOP_LEFT" />
+                <Label fx:id="monsterHealthLabel">
+                    <style>
+                        -fx-font-size: 36px;
+                        -fx-font-family: Times;
+                        -fx-text-fill: #fffaf0;
+                    </style>
+                </Label>
+            </HBox>
+            <Button text="Inventory" onMouseClicked="#showInventory" mnemonicParsing="false" focusTraversable="false">
+                <style>
+                    -fx-background-color: #ffe76e;
+                    -fx-text-fill: #654b00;
+                    -fx-font-weight: bold;
+                    -fx-font-size: 14px;
+                    -fx-padding: 10 20 10 20;
+                </style>
+            </Button>
+        </VBox>
+        <HBox fx:id="avatarBox" alignment="CENTER" layoutX="700" layoutY="350" maxHeight="10" maxWidth="20">
+            <ImageView fx:id="avatarView" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER" />
+            <ImageView fx:id="weaponView" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER" />
+        </HBox>
+        <ImageView fx:id="topDoor" fitHeight="100" layoutX="700" layoutY="20" preserveRatio="true" />
+        <ImageView fx:id="leftDoor" fitHeight="100" layoutX="20" layoutY="450" preserveRatio="true" />
+        <ImageView fx:id="bottomDoor" fitHeight="100" layoutX="680" layoutY="780" preserveRatio="true" />
+        <ImageView fx:id="rightDoor" fitHeight="100" layoutX="1280" layoutY="450" preserveRatio="true" />
+        <Button fx:id="attack" layoutX="1200.0" layoutY="100.0" mnemonicParsing="false" onMouseClicked="#attackAction" text="Attack">
+            <style>
+                -fx-background-color: #ffe76e;
+                -fx-text-fill: #654b00;
+                -fx-font-weight: bold;
+                -fx-font-size: 14px;
+                -fx-padding: 10 20 10 20;
+            </style>
+        </Button>
+        <Button fx:id="challenge" layoutX="400.0" layoutY="400.0" mnemonicParsing="false" onMouseClicked="#generateMonstersChallenge" text="Challenge">
+            <style>
+                -fx-background-color: #ffe76e;
+                -fx-text-fill: #654b00;
+                -fx-font-weight: bold;
+                -fx-font-size: 14px;
+                -fx-padding: 10 20 10 20;
+            </style>
+        </Button>
+    </Pane>
+</StackPane>
