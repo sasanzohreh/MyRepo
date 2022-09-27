@@ -1,2 +1,2 @@
-# Class_Repo
-Repo of private class projects
+# My_Repo
+Repository of my past projects.
